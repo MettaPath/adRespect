@@ -1334,7 +1334,7 @@ template {
   right: 0;
   width: 50%;
   height: 100%;
-  background: url('../../adRespect/assets/img/hero.cc948e7a.png') no-repeat 100%;
+  background: url('/adRespect/assets/img/hero.cc948e7a.png') no-repeat 100%;
   background-size: 100%;
 }
 
@@ -1401,7 +1401,7 @@ template {
 
 @media (max-width: 1378px) {
   .hero {
-    background: url('../../adRespect/assets/img/hero3.bbd5873d.png') no-repeat right;
+    background: url('/adRespect/assets/img/hero3.bbd5873d.png') no-repeat right;
     background-color: rgba(220, 193, 171, 1);
   }
 
@@ -1434,7 +1434,7 @@ template {
   left: 0;
   width: 50%;
   height: 100%;
-  background: url('../adRespect/assets/img/about.946c3d08.png') no-repeat 100%;
+  background: url('/adRespect/assets/img/about.946c3d08.png') no-repeat 100%;
   background-size: 100%;
 }
 
@@ -1462,7 +1462,7 @@ template {
 
 @media (max-width: 1378px) {
   .about {
-    background: url('../adRespect/assets/img/4.ed153e05.png') no-repeat right;
+    background: url('/adRespect/assets/img/4.ed153e05.png') no-repeat right;
     background-size: cover;
     background-color: rgba(22, 101, 52);
   }
