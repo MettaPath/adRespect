@@ -1056,8 +1056,8 @@ template {
 @font-face {
   font-family: "Inter";
   src: local("inter Regular"),
-    url("/assets/fonts/Inter-Regular.d028102f.woff2") format("woff2"),
-    url("/assets/fonts/InterRegular.41f6d97a.woff")format("woff");
+    url("/adRespect/assets/fonts/Inter-Regular.d028102f.woff2") format("woff2"),
+    url("/adRespect/assets/fonts/InterRegular.41f6d97a.woff")format("woff");
   font-display: swap;
   font-weight: 400;
   font-style: normal;
@@ -1066,8 +1066,8 @@ template {
 @font-face {
   font-family: "Inter";
   src: local("Inter Medium"),
-    url("/assets/fonts/assets/fonts/InterMedium.aee3b0e9.woff2") format("woff2"),
-    url("/assets/fonts/InterMedium.aee3b0e9.woff") format("woff");
+    url("/adRespect/assets/fonts/InterMedium.aee3b0e9.woff2") format("woff2"),
+    url("/adRespect/assets/fonts/InterMedium.aee3b0e9.woff") format("woff");
   font-display: swap;
   font-weight: 500;
   font-style: normal;
@@ -1076,8 +1076,8 @@ template {
 @font-face {
   font-family: "Inter";
   src: local("Inter Medium"),
-    url("/assets/fonts/Inter-Bold.f734cdc1.woff2") format("woff2"),
-    url("/assets/fonts/InterBold.196e415a.woff") format("woff");
+    url("/adRespect/assets/fonts/Inter-Bold.f734cdc1.woff2") format("woff2"),
+    url("/adRespect/assets/fonts/InterBold.196e415a.woff") format("woff");
   font-display: swap;
   font-weight: 500;
   font-style: normal;
@@ -1086,8 +1086,8 @@ template {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat Regular"),
-      url("/assets/fonts/assets/fonts/MontserratRegular.0032c0a5.woff2") format("woff2"),
-      url("/assets/fonts/MontserratRegular.0032c0a5.woff") format("woff");
+      url("/adRespect/assets/fonts/MontserratRegular.0032c0a5.woff2") format("woff2"),
+      url("/adRespect/assets/fonts/MontserratRegular.0032c0a5.woff") format("woff");
   font-display: swap;
   font-weight: 400;
   font-style: normal;
@@ -1096,8 +1096,8 @@ template {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat Medium"),
-    url("/assets/fonts/assets/fonts/MontserratMedium.3eaf4255.woff2") format("woff2"),
-    url("/assets/fonts/MontserratMedium.3eaf4255.woff") format("woff");
+    url("/adRespect/assets/fonts/MontserratMedium.3eaf4255.woff2") format("woff2"),
+    url("/adRespect/assets/fonts/MontserratMedium.3eaf4255.woff") format("woff");
   font-display: swap;
   font-weight: 500;
   font-style: normal;
@@ -1334,7 +1334,7 @@ template {
   right: 0;
   width: 50%;
   height: 100%;
-  background: url('../../assets/img/hero.cc948e7a.png') no-repeat 100%;
+  background: url('../../adRespect/assets/img/hero.cc948e7a.png') no-repeat 100%;
   background-size: 100%;
 }
 
@@ -1401,7 +1401,7 @@ template {
 
 @media (max-width: 1378px) {
   .hero {
-    background: url('../../assets/img/hero3.bbd5873d.png') no-repeat right;
+    background: url('../../adRespect/assets/img/hero3.bbd5873d.png') no-repeat right;
     background-color: rgba(220, 193, 171, 1);
   }
 
@@ -1434,7 +1434,7 @@ template {
   left: 0;
   width: 50%;
   height: 100%;
-  background: url('../../assets/img/about.946c3d08.png') no-repeat 100%;
+  background: url('../../adRespect/assets/img/about.946c3d08.png') no-repeat 100%;
   background-size: 100%;
 }
 
@@ -1462,7 +1462,7 @@ template {
 
 @media (max-width: 1378px) {
   .about {
-    background: url('../../assets/img/4.ed153e05.png') no-repeat right;
+    background: url('../../adRespect/assets/img/4.ed153e05.png') no-repeat right;
     background-size: cover;
     background-color: rgba(22, 101, 52);
   }
