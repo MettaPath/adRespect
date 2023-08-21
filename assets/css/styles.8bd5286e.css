@@ -1400,6 +1400,9 @@ template {
 }
 
 @media (max-width: 1378px) {
+  .hero-title {
+      font: 500 45px / 60px Montserrat, sans-serif;
+    }
   .hero {
     background: url('/adRespect/assets/img/hero3.bbd5873d.png') no-repeat right;
     background-color: rgba(220, 193, 171, 1);
@@ -1577,7 +1580,7 @@ template {
 .projects-btn {
   z-index: 1000;
   position: absolute;
-  bottom: 1%;
+  bottom: 5%;
   left: 50%;
   -webkit-transform: translateX(-50%);
   transform: translateX(-50%);
