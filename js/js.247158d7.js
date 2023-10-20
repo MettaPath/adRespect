@@ -5869,7 +5869,7 @@ loadMoreButton.addEventListener("click", function () {
   });
   (0, _imagesloaded.default)(grid, function () {
     msnry.layout();
-    var offsetPixels = -20;
+    var offsetPixels = -1000;
     var rect = loadMoreButton.getBoundingClientRect();
     window.scrollTo({
       top: window.scrollY + rect.top + offsetPixels,
